@@ -1,4 +1,4 @@
-# presupuesto_app
+# mi_presupuesto
 
 presupuesto mensual Jorge Charrupi
 
